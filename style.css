@@ -1,0 +1,145 @@
+.services{
+    background-image: url(images/bg.png);
+    background-repeat: no-repeat;
+    background-size: 1440px;
+    height: 600px;
+   
+}
+.request{
+    background-color: blue;
+    width: 120px;
+    height: 40px;
+    margin-top: -20px;
+}
+.navbar{
+    background-color: whitesmoke;
+
+}
+.navbar ul{
+    display: flex;
+    margin-left: 50%;
+    list-style: none;
+    margin-top: -40px;
+}
+li{
+    padding: 0px 15px;
+}
+.world{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}.ourbtn{
+    background-color: blue;
+    border: none;
+    font-size: 20px;
+    color: white;
+    margin-top: 100px;
+    margin-right: 100px;
+    width: 200px;
+    height: 50px;
+}
+.getin{
+    color:white;
+    width: 200px;
+    height: 50px;
+    border-color: white;
+}
+.abt{
+    height: 345px;
+}
+.about{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+.img{
+    float: right;
+     margin-right: 80px;
+     margin-top: -50px;
+     clear: right;
+}
+.btn{
+    background-color: blue;
+    border: none;
+    
+}
+.high{
+    background-image: url(/images/Rectangle\ 11.png);
+    background-repeat: no-repeat;
+    background-size: 1440px;
+    height: 600px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
+.serv {
+    display: flex;
+    justify-content: space-around;
+}
+.airline{
+box-shadow: 0 1px 2px rgb(215, 215, 219);
+width: 21%;
+border: 1px solid;
+border: none;
+float: left;
+
+}
+#clear{
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+}
+#clear h5{
+    font-size: 20px;
+    
+}
+.form{
+    border: solid;
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    margin-right: 100px ;
+    margin-top: 70px;
+    border: none;
+    border-radius: 5px;
+    text-align: justify;
+}
+#fom{
+padding-left: 30px;}
+input[type=text], select{
+    width:250px;
+    padding: 12px 20px;
+    margin: 0;
+    display: inline-block;
+    border-radius: 2px;
+    border-color: grey;
+
+}
+.footer{
+    text-align: center;
+    background-color: rgb(8, 8, 73);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cont{
+    color: white;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+#message{
+    
+    height: 70px;
+}
+.ourbtn1{
+    width: 200px;
+    height: 50px;
+    background-color: blue;
+    margin-top: 20px;
+}
+.send {
+    background-color: blue;
+    height: 40px;
+    width: 150px;
+    align-content: center;
+    margin-left: 100px;
+}
